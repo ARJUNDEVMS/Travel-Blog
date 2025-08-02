@@ -159,3 +159,29 @@ footer {
 .contact-form button:hover {
   background-color: #005fa3;
 }
+.kerala-preview {
+  text-align: center;
+  padding: 40px;
+  background-color: #f5f5f5;
+}
+
+.kerala-banner {
+  width: 100%;
+  max-width: 700px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+
+.kerala-button {
+  display: inline-block;
+  padding: 12px 20px;
+  background-color: #008080;
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+  border-radius: 8px;
+}
+
+.kerala-button:hover {
+  background-color: #006666;
+}
